@@ -1,6 +1,6 @@
-<!-- Banner -->
+<img width="1920" height="1080" alt="Purple Illustrative Lavender Desktop Wallpaper" src="https://github.com/user-attachments/assets/78ba551d-fddc-496f-b41c-9f216719f8a4" /><img width="1920" height="1080" alt="Pink Illustrated Cherry Blossom Desktop Wallpaper" src="https://github.com/user-attachments/assets/33469883-1841-4df6-b330-b639d677e116" /><!-- Banner -->
 <p align="center">
-  <img src="https://i.imgur.com/5QeKQ7F.png" width="100%" alt="Banner"/>
+  <img src="<img width="1920" height="1080" alt="Purple Illustrative Lavender Desktop Wallpaper" src="https://github.com/user-attachments/assets/b6721b39-332b-4b2e-99bc-4e61a3b7ea79" />" width="100%" alt="Banner"/>
 </p>
 
 <h1 align="center">Hello there!, I'm Rawan <3 </h1>
